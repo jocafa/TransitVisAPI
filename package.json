@@ -1,0 +1,17 @@
+{
+  "name": "TransitVisAPI",
+  "version": "0.0.0",
+  "description": "API Layer for TransitVis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Faul <josh.faul@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "simple-stack-common": "~0.2.2",
+    "startup": "~0.3.0",
+    "superagent": "~0.15.7",
+    "blarney": "*"
+  }
+}
